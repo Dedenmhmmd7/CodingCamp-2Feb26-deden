@@ -1,8 +1,8 @@
-# 📝 Todo List Web Application
+# 📝 To do List Web Application
 
 A modern, dark-themed todo list application built with vanilla JavaScript, HTML, and CSS. Features a clean UI inspired by contemporary design principles with full CRUD functionality and local storage persistence.
 
-![Todo List App](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![To do List App](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![JavaScript](https://img.shields.io/badge/javascript-ES6-yellow.svg)
 
@@ -245,8 +245,8 @@ SOFTWARE.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Website: [yourwebsite.com](https://yourwebsite.com)
+- GitHub: [@yourusername](https://github.com/Dedenmhmmd7)
+
 
 ## 🙏 Acknowledgments
 
